@@ -1,0 +1,19 @@
+.H2_info{
+    margin-bottom: 11rem;
+    text-align: center;
+}
+.man_barber{
+    display: grid;
+    margin-bottom: 5rem;
+}
+.son_barber{
+    text-align: center;
+    columns: 3;
+    grid-row: 2;
+    column-gap: 0.7rem;
+}
+.man_barber>button{
+    width: 18.8rem ;
+    height: 7.5rem;
+   margin-left: 60rem;
+}

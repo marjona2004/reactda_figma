@@ -1,0 +1,17 @@
+header{
+    margin-top: 5.1rem;
+    display: flex;
+    gap: 2.1rem;
+}
+.imgTwo{
+    width: 59%;
+   
+}
+.info{
+    width: 41%;
+    padding-top: 10.2rem;
+}
+.imgTwo >img{
+    width:88rem ;
+    height: 72rem;
+}

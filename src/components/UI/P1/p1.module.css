@@ -1,0 +1,14 @@
+.p_one{
+    color: var(--p-color);
+font-size: 2.5rem;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.75px;
+}
+
+.padding_info1{
+    margin-top: 2.9rem;
+}
+.padding_info2{
+    margin-top: 5rem;
+}

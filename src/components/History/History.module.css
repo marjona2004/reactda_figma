@@ -1,0 +1,14 @@
+.history{
+    display: flex;
+    margin-top: 22.6rem;
+}
+.history_img{
+   width: 60%;
+}
+.history_info{
+    width: 40%;
+  padding-top: 11.1rem;
+}
+.history_img>img{
+  width: 75rem;
+}
